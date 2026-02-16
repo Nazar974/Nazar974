@@ -7,7 +7,7 @@ Software Enginner
 Currently learning backend development, focusing on serves-side logic, APIs, and databases. Actively placticing through small projects and continuous learning.
 
 * 🌍  I'm based in Kharkiv
-* ✉️  You can contact me at [https://t.me/marziippan](mailto:https://t.me/marziippan)
+* ✉️  You can contact me at [https://t.me/marziippan].
 * 🧠  I'm currently learning I\`m currently focused on learning backend development: building Telegram bots, working with databases, and creating APIs.
 * 👥  I'm looking to collaborate on backend projects, building Telegram bots, working with databases, and creating APIs.
 
